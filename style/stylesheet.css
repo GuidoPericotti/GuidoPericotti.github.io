@@ -1,0 +1,65 @@
+body {
+  background-image: url(https://img.freepik.com/foto-gratis/primer-plano-pantalla-computadora-desarrollador-software-que-escribe-script-funciones-base-datos-su-agencia-inicio-muestra-concepto-codigo-fuente-escritura-programador-desplazamiento-texto-lenguaje-programacion_482257-33542.jpg?w=900&t=st=1674589433~exp=1674590033~hmac=fb64b5410e44211c97425bc57162dfa0e98f244c1f541e093f10180cc0296e4a);
+  background-size: 100%;
+}
+h1 {
+  font-family: 'Roboto', sans-serif;
+  width: 100%;
+  text-align: center;
+  font-size: 50px;
+  border-bottom: 1px solid black;
+  margin: 5px;
+}
+
+#foto_perfil {
+  text-align: left;
+  margin-top: 10px;
+}
+
+img {
+  border-radius: 50%;
+  border: 1px solid white;
+  width: 100px;
+  height: 100px;
+  margin-left: 1%;
+  margin: 8px 16px;
+}
+ul {
+  list-style-type: none;
+  margin-left: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  width: 20%;
+}
+
+li a {
+  display: block;
+  color: rgb(255, 255, 255);
+  text-align: left;
+  padding: 8px 16px;
+  text-decoration: none;
+  margin-left: 1%;
+}
+
+li a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+
+.main{
+  font-family: 'Roboto', sans-serif;
+  margin-left: 25%;
+  margin-top: -220px;
+  color: black;
+  font-size: 25px;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  line-height: 40px;
+}
+
+#info{
+  font-family: 'Roboto', sans-serif;
+  width: 100%;
+  text-align: left;
+  padding: 25px;
+}
